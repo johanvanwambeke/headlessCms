@@ -6,3 +6,4 @@ tags = []
 title = "Blog2"
 
 +++
+I will write a second blogpost here and it will be awesome ! 
