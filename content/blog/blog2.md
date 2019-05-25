@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/uploads/126-1266727_the-little-prince-review-little-prince-png.png"
 categories = []
 date = "2019-05-24T16:00:00+00:00"
 tags = []
