@@ -8,5 +8,3 @@ fields:
 - type: text
   name: id
   label: id
-pages:
-- content/i-made-a-new-page.md
