@@ -2,7 +2,7 @@
 draft = true
 id = "newpage"
 title = "I made a new page"
-[menu.topbar]
+[menu.main]
 name = "Test"
 weight = 5
 
