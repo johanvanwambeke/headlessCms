@@ -1,5 +1,4 @@
 +++
-draft = true
 id = "newpage"
 title = "I made a new page"
 [menu.main]
