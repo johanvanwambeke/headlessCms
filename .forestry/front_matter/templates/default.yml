@@ -18,5 +18,3 @@ fields:
 - type: file
   name: banner
   label: banner
-pages:
-- content/blog/blog2.md
