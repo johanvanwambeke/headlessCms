@@ -18,3 +18,5 @@ fields:
 - type: file
   name: banner
   label: banner
+pages:
+- content/blog/we-are-summit-kings.md
