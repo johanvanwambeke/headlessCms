@@ -1,8 +1,8 @@
 +++
 banner = "/uploads/Summit-Kings-1.png"
-categories = []
+categories = ["news"]
 date = "2019-05-24T16:00:00+00:00"
-tags = []
+tags = ["hot"]
 title = "We are Summit-Kings"
 
 +++
